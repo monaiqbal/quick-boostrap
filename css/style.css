@@ -1,0 +1,134 @@
+
+
+.bar{
+   padding-left: 220px;
+   padding-top: 20px;
+}
+.col-5 img{
+width: 35%;
+}
+
+
+.bar ul{
+    list-style: none;
+   
+}
+.bar ul li{
+    float: left;
+    padding-left: 30px;
+}
+.main{
+    margin-bottom: 50px;
+}
+.main h1{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #191724;
+}
+.main h2{
+    text-align: center;
+    font-size: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:#008AFF;
+}
+.cont{
+    margin-bottom: 70px;
+}
+.conl h1{
+    text-align: right;
+    color: rgb(234, 97, 97);
+}
+.conl h2{
+    text-align: right;
+    font-size: 14px;
+}
+.conr{
+    color: #191724;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.item{
+    margin-left: 200px;
+}
+.itemo{
+    background-color: #FEEBED;
+    text-align: center;
+    
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    height: 350px;
+}
+.itemo img{
+    width:70%;
+    
+}
+.itemo h1{
+    padding-left: 6px;
+    font-size: 35px;
+    text-align: left;
+}
+.itemo h2{
+    padding-left: 6px;
+    font-size: 20px;
+    text-align: left;
+}
+.itemt{
+    background-color: #EAF9F4;
+    margin-left: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    height: 350px;
+    text-align: center;
+}
+.itemt img{
+    width:70%;
+    
+    
+}
+.itemt h1{
+    padding-left: 6px;
+    font-size: 35px;
+    text-align: left;
+}
+.itemt h2{
+    padding-left: 6px;
+    font-size: 20px;
+    text-align: left;
+}
+.itemth{
+    text-align: center;
+    background-color: #FFF7EA;
+    margin-left: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    height: 350px;
+   
+}
+.itemth img{
+    width:70%;
+    
+}
+.itemth h1{
+    padding-left: 6px;
+    font-size: 35px;
+    text-align: left;
+}
+.itemth h2{
+    padding-left: 6px;
+    font-size: 20px;
+    text-align: left;
+}
+.col-12{
+    height: 80px;
+    margin-top: 60px;
+    text-align: center;
+    padding-top: 25px;
+    background-color: #008AFF;
+    
+}
+.col-12  p{
+    color:#bfd6eb;
+}
+
+
+.col-12  p span{
+    color: white;
+    letter-spacing: 1px;
+    font-weight: 700;
+}
